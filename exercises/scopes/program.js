@@ -1,5 +1,5 @@
 // enter your code below
 
-function ??? {
-  ???
+function foo {
+  var bar;
 }
