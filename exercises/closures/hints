@@ -1,0 +1,2 @@
+ * The task is to return the function `zip`, not the result of `zip()`.
+ * The value you set to `bar` isn't important.

@@ -1,0 +1,2 @@
+ * Modifying your solution to exercise 2, _Scope Chains_, is a good start.
+ * Don't use `var` or `let` when assigning the value to `quux` inside `foo()`
